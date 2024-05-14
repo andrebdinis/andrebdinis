@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi 👋, I'm André Dinis
+=====================================================================================================================================
+
+Aspiring Software Developer
+
+* 🌐 Based in Valença (Viana do Castelo, Portugal)
+* 💻 Working on getting the _Relational Database Certification_, and the updated _JavaScript Algorithms and Data Structures (Beta) Certification_ at freeCodeCamp.org
+* 🌱 Learning Git, SQL, PostgreSQL, Bash, Shell Scripting
+* 🤝 Open to collaborate on awesome projects
+
+P.S.: **🔎 I'm currently seeking Entry-level/Junior position**
 
 <!--
 **andrebdinis/andrebdinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
