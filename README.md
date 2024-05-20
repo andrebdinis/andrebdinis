@@ -92,11 +92,11 @@ Aspiring Software Developer
 #### 2. [Legacy JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 | # | Project | Code |
 | --- | --- | --- |
-| 1 | Palindrome Checker | ___ |
-| 2 | Roman Numeral Converter | ___ |
-| 3 | Caesars Cipher | ___ |
-| 4 | Telephone Number Validator | ___ |
-| 5 | Cash Register | ___ |
+| 1 | Palindrome Checker | [Link](https://github.com/andrebdinis/legacy-javascript-algo-and-datastruct-projects) |
+| 2 | Roman Numeral Converter | idem |
+| 3 | Caesars Cipher | idem |
+| 4 | Telephone Number Validator | idem |
+| 5 | Cash Register | idem |
 
 #### 1. [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 | # | Project | CodePen |
