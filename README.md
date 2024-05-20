@@ -14,7 +14,6 @@ Aspiring Software Developer
 
 ---
 
-<!--
 ## Certification Projects for freeCodeCamp
 
 #### 10. [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
@@ -107,8 +106,6 @@ Aspiring Software Developer
 | 3 | Product Landing Page | [Link](https://codepen.io/andrebdinis/pen/QWaoPYb) |
 | 4 | Technical Documentation Page | [Link](https://codepen.io/andrebdinis/pen/rNpbGQv) |
 | 5 | Personal Portfolio | [Link](https://codepen.io/andrebdinis/pen/bGaJPNg) |
-
--->
 
 
 
