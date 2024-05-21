@@ -16,6 +16,15 @@ Aspiring Software Developer
 
 ## Certification Projects for freeCodeCamp
 
+#### 11. [Relational Database](https://www.freecodecamp.org/learn/relational-database/)
+| # | Project | Code |
+| --- | --- | --- |
+| 1 | Celestial Bodies Database | [Link](https://github.com/andrebdinis/celestial-bodies-database-in-postgresql) |
+| 2 | World Cup Database | [Link](https://github.com/andrebdinis/world-cup-database-in-postgresql) |
+| 3 | Salon Appointment Scheduler Database | [Link](https://github.com/andrebdinis/salon-appointment-scheduler-database-in-postgresql) |
+| 4 | Periodic Table Database | [Link](https://github.com/andrebdinis/periodic-table-database-in-postgresql-and-git) |
+| 5 | Number Guessing Game | [Link](https://github.com/andrebdinis/number-guessing-game-in-postgresql-and-git) |
+
 #### 10. [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 | # | Project | Code | Replit |
 | --- | --- | --- | --- |
