@@ -102,10 +102,10 @@ Aspiring Software Developer
 | # | Project | Code |
 | --- | --- | --- |
 | 1 | Palindrome Checker | [Link](https://github.com/andrebdinis/legacy-javascript-algo-and-datastruct-projects) |
-| 2 | Roman Numeral Converter | idem |
-| 3 | Caesars Cipher | idem |
-| 4 | Telephone Number Validator | idem |
-| 5 | Cash Register | idem |
+| 2 | Roman Numeral Converter | _idem_ |
+| 3 | Caesars Cipher | _idem_ |
+| 4 | Telephone Number Validator | _idem_ |
+| 5 | Cash Register | _idem_ |
 
 #### 1. [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 | # | Project | CodePen |
