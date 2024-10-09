@@ -1,16 +1,16 @@
 Hi 👋, I'm André Dinis
 =====================================================================================================================================
 
-Aspiring Software Developer
+Amateur Software/Web Developer
 
 * 🌐 Based in Valença (Viana do Castelo, Portugal)
-* 💻 Working on getting the _JavaScript Algorithms and Data Structures (Beta) <sup>Certification</sup>_ at freeCodeCamp.org
-* 🌱 Learning Algorithms, Data Structures and Big O Notation
+* 💻 Working on ...
+* 🌱 Learning ...
 * 🤝 Open to collaborate on awesome projects
 
 ----------------------------------------------------------------------------------------
 
-🔎 I'm currently seeking **Entry-level/Junior** position
+🔎 I'm currently not seeking any position.
 
 ---
 
