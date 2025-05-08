@@ -6,7 +6,6 @@ Amateur Software/Web Developer
 * 🌐 Based in Valença (Viana do Castelo, Portugal)
 * 💻 Working on ...
 * 🌱 Learning ...
-* 🤝 Open to collaborate on awesome projects
 
 ----------------------------------------------------------------------------------------
 
